@@ -6,3 +6,4 @@ __pycache__
 blog_old.md
 postgres/csvs/*
 .DS_Store
+postgres/.DS_Store
