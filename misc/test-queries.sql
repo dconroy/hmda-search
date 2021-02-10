@@ -40,6 +40,6 @@ GROUP BY
 ORDER BY
 	count(*)
 	DESC
-LIMIT 20;
+LIMIT 50;
 
 SELECT count(*) from hdma where lei = '7H6GLXDRUGQFU57RNE97'
